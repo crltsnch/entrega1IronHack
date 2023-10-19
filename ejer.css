@@ -1,5 +1,5 @@
 H1{
-    background-color: #ebe97f;
+    background-color: #ebeaa9;
     color: #212121;
     text-align: center;
     padding: 10px;
@@ -10,7 +10,9 @@ body{
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-image: url('main.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
 }
 
 .container{
@@ -21,7 +23,7 @@ body{
 .sidebar{
     flex: 0 0 30%;
     display: flex;
-    background-color: #eda36b;
+    background-color: #efaf8a;
     flex-direction: column;
     margin-right: 10px;
     padding: 10px;
@@ -52,13 +54,12 @@ body{
 main{
     flex: 1;
     padding: 20px;
-    background-image: url('img.jpg');
-    background-size: cover;
+    background-color: #b0ebbe;
     margin-bottom: 10px;
 }
 
 .footer{
-    background-color: #8ec7eb;
+    background-color: #a5d1eb;
     color:#212121;
     text-align: center;
     padding: 10px;
