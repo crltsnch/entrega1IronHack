@@ -30,7 +30,7 @@ body{
 .sidebar{
     flex: 0 0 30%;
     display: flex;
-    background-color: #efaf8a;
+    background-color: #e8b29c;
     flex-direction: column;
     margin-right: 10px;
     margin-bottom: 10px;
@@ -65,7 +65,7 @@ main{
 }
 
 .footer{
-    background-color: #a5d1eb;
+    background-color: #b9bff6;
     color:#212121;
     text-align: center;
     padding: 10px;
