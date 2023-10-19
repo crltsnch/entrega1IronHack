@@ -1,10 +1,15 @@
 H1{
     background-color: #ebeaa9;
-    color: #212121;
+    color: #343434;
     text-align: center;
     padding: 10px;
     margin: 10px;
     border-radius: 5px;
+}
+
+span{
+    color: #343434;
+    font-weight: bold;
 }
 
 body{
@@ -35,7 +40,8 @@ body{
 
 .box{
     flex: 1;
-    color: #212121;
+    color: #343434;
+    text-align: center;
     margin: 5px;
     padding: 10px;
     border-radius: 5px;
@@ -52,6 +58,7 @@ body{
 main{
     flex: 1;
     padding: 20px;
+    text-align: center;
     background-color: #b0ebbe;
     margin-bottom: 10px;
     border-radius: 5px;
