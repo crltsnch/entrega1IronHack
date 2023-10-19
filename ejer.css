@@ -29,20 +29,13 @@ body{
     padding: 10px;
 }
 
-#box1{
+.box{
     flex: 1;
     color: #212121;
-    border-bottom: 1px solid #212121;
     margin: 5px;
     padding: 10px;
 }
 
-#box2{
-    flex: 1;
-    color: #212121;
-    margin: 5px;
-    padding: 10px;
-}
 
 .colum2{
     flex: 1;
