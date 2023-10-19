@@ -10,6 +10,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
 }
 
 .container{
@@ -26,15 +27,15 @@ body{
     padding: 10px;
 }
 
-.box1{
+#box1{
     flex: 1;
     color: #212121;
-    border-bottom: 1px #212121;
+    border-bottom: 1px solid #212121;
     margin: 5px;
     padding: 10px;
 }
 
-.box2{
+#box2{
     flex: 1;
     color: #212121;
     margin: 5px;
@@ -55,3 +56,12 @@ main{
     background-size: cover;
     margin-bottom: 10px;
 }
+
+.footer{
+    background-color: #8ec7eb;
+    color:#212121;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
